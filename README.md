@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeprep/Full-Stack-Interview-Questions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # Full-Stack Interview Questions
 
 > Over 70 actual interview questions to help you prepare for your Full-Stack Interview Questions.
